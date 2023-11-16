@@ -9,7 +9,7 @@ The purpose of this plug-in is to simplify the process of adding video conferenc
 The plugin randomly generates a Jitsi link to an appointment (while in the appointment creation window). It was built based on the Yeoman generator, as described in the this [guide](https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/outlook-quickstart?tabs=yeomangenerator).
 
 ![Photo: Jitsi Outlook plugin example / HaV / CC0](screenshot.png)
-
+ddd
 <figcaption>Jitsi Outlook plugin example / HaV / CC0</figcaption>
 
 ---
